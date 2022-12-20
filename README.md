@@ -6,7 +6,7 @@
 ### progress
 ![image](https://user-images.githubusercontent.com/67407023/208695780-4749324d-b607-4437-8b9f-396425ef3cf1.png)
 ### training skills
-<img src="https://user-images.githubusercontent.com/67407023/208695885-15cf5990-50b9-4eb9-8f08-c771efa01167.png" width="500" height="200" ><br/>
+<img src="https://user-images.githubusercontent.com/67407023/208695885-15cf5990-50b9-4eb9-8f08-c771efa01167.png" width="500" height="250" ><br/>
 
 ### Curriculum learning
 <img src="https://user-images.githubusercontent.com/67407023/208696037-e65cf8bc-894a-4535-9f1c-d5c4f730204e.png" width="500" height="200" ><br/>
